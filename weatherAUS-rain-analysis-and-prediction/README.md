@@ -8,7 +8,7 @@
 
 | الملف | الوصف |
 |---|---|
-| `project___Final.ipynb` | النوتبوك الكامل (99 خلية) |
+| `weatherAUS-rain-analysis-and-prediction.ipynb` | النوتبوك الكامل (99 خلية) |
 | `weatherAUS.csv` | الداتا سيت الأصلية (145,460 صف × 23 عمود) |
 
 ---
