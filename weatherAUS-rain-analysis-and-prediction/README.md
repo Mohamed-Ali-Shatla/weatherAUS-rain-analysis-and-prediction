@@ -10,9 +10,9 @@
 |---|---|
 | `weatherAUS-rain-analysis-and-prediction.ipynb` | النوتبوك الكامل (99 خلية) |
 | `weatherAUS.csv` | الداتا سيت الأصلية (145,460 صف × 23 عمود) |
-| `assets/analysis_graph_1.png` | رسم بياني: اتجاه كل متغير طقس عبر السنين (Yearly Trend) |
-| `assets/analysis_graph_2.png` | رسم بياني: اتجاه كل متغير طقس عبر الشهور (Monthly Trend) |
-| `assets/analysis_graph_3.png` | رسم بياني: اتجاه كل متغير طقس عبر الفصول (Seasonal Trend) |
+| `assets/analysis_graph_1.png` |  (Yearly Trend Graph) |
+| `assets/analysis_graph_2.png` |  (Monthly Trend Graph) |
+| `assets/analysis_graph_3.png` |  (Seasonal Trend Graph) |
 | `assets/stations_map.html` | خريطة تفاعلية (Folium) لمحطات الرصد ومعالجة الضغط الجغرافي |
 
 ---
